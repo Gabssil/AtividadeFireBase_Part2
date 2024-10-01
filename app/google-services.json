@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "775577921993",
+    "project_id": "clientes-55e38",
+    "storage_bucket": "clientes-55e38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775577921993:android:3ddb650fedd43c92a32018",
+        "android_client_info": {
+          "package_name": "com.example.atividadefirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWW0pREcZQgEcw37FZL1r-PmjOsPkTvcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775577921993:android:37f823c5c34f4240a32018",
+        "android_client_info": {
+          "package_name": "com.example.atividadefrb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWW0pREcZQgEcw37FZL1r-PmjOsPkTvcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
